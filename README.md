@@ -33,4 +33,4 @@
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/pdro-bastos/-grade-average
+   git clone https://github.com/pdro-bastos/grade-average
